@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**y-gishnavi/y-gishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gishnavi! 
 
-Here are some ideas to get you started:
+🎓 First-Year B.Tech CSE (AI & ML) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+### About Me
+- Currently pursuing B.Tech in Computer Science and Engineering (AI & ML).
+- Learning programming and exploring new technologies.
+- Interested in Artificial Intelligence and Machine Learning.
+- Exploring problem-solving and software development.
+
+### Currently Learning
+- C Programming
+- Python
+- Artificial Intelligence & Machine Learning
+
+### My Goals
+- Build practical coding projects.
+- Improve my programming skills.
+- Participate in hackathons and tech events.
+- Explore the world of AI and technology.
+
+### Connect With Me
+- LinkedIn: www.linkedin.com/in/yanala-gishnavi-6b36b5415
+
+---
+Learning, building and growing one step at a time.✨
